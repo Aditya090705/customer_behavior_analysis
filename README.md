@@ -136,21 +136,22 @@ The dashboard provides insights into:
 ```
 Customer-Shopping-Behavior-Analysis/
 │
-├── Dataset/
+├── data/
 │   └── customer_shopping_behavior.csv
 │
-├── Python/
-│   └── Customer_shopping_behavior_analysis.ipynb
+├── notebooks/
+│   └── customer_shopping_behavior_analysis.ipynb
 │
-├── SQL/
-│   └── business_queries.sql
+├── sql/
+│   └── customer_behavior_sql_queries.sql
 │
-├── PowerBI/
-│   └── Customer_Behavior_Dashboard.pbix
+├── powerbi/
+│   └── customer_behavior_dashboard.pbix
 │
-├── Presentation/
-│   └── Gamma Presentation.pdf
+├── presentation/
+│   └── Customer_Shopping_Behavior_Analysis_Presentation.pdf
 │
+├── LICENSE
 └── README.md
 ```
 
