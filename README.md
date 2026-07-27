@@ -148,9 +148,6 @@ Customer-Shopping-Behavior-Analysis/
 ├── PowerBI/
 │   └── Customer_Behavior_Dashboard.pbix
 │
-├── Report/
-│   └── Customer Shopping Behavior Analysis.pdf
-│
 ├── Presentation/
 │   └── Gamma Presentation.pdf
 │
